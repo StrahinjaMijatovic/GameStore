@@ -1,0 +1,26 @@
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\appsettings.Development.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\appsettings.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\Game Store.exe
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\Game Store.deps.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\Game Store.runtimeconfig.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\Game Store.dll
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\Game Store.pdb
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.AssemblyInfoInputs.cache
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.AssemblyInfo.cs
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.csproj.CoreCompileInputs.cache
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.MvcApplicationPartsAssemblyInfo.cache
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.sourcelink.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\staticwebassets.build.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\staticwebassets.development.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\staticwebassets\msbuild.Game Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\staticwebassets\msbuild.build.Game Store.props
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Game Store.props
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Game Store.props
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\scopedcss\bundle\Game Store.styles.css
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.dll
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\refint\Game Store.dll
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.pdb
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.genruntimeconfig.cache
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\ref\Game Store.dll

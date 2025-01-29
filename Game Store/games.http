@@ -1,0 +1,30 @@
+GET http://localhost:5257/games
+
+###
+GET http://localhost:5257/games/2
+
+###
+POST http://localhost:5257/games
+Content-Type: application/json
+
+{
+    "name": "cs-go",
+    "genre": "Shooting",
+    "price": 20,
+    "releaseDate": "2011-11-18"
+}
+
+###
+PUT http://localhost:5257/games/2
+Content-Type: application/json
+
+{
+    "name": "cs-goo",
+    "genre": "Shooting",
+    "price": 20,
+    "releaseDate": "2011-11-18"
+}
+
+###
+DELETE  http://localhost:5257/games/2
+
