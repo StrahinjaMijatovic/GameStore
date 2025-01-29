@@ -14,6 +14,17 @@ Content-Type: application/json
     "releaseDate": "2011-11-18"
 }
 
+//validation test
+###
+POST http://localhost:5257/games
+Content-Type: application/json
+
+{
+    "genre": "Shooting",
+    "price": 20,
+    "releaseDate": "2011-11-18"
+}
+
 ###
 PUT http://localhost:5257/games/2
 Content-Type: application/json

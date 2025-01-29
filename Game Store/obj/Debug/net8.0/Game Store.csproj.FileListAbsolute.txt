@@ -24,3 +24,9 @@ D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\
 D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.pdb
 D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.genruntimeconfig.cache
 D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\ref\Game Store.dll
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\MinimalApis.Extensions.dll
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\bin\Debug\net8.0\MiniValidation.dll
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.csproj.AssemblyReference.cache
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.MvcApplicationPartsAssemblyInfo.cs
+D:\Strahinja\Desktop\Yt asp. net Beginner course\GameStore\Game Store\obj\Debug\net8.0\Game Store.csproj.Up2Date
